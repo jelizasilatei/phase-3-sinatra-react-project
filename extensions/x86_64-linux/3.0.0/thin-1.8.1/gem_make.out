@@ -1,0 +1,17 @@
+current directory: /home/ziza/Jeliza/Ruby/Project/phase-3-sinatra-react-project/gems/thin-1.8.1/ext/thin_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230609-2734-y7d3n6.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/ziza/Jeliza/Ruby/Project/phase-3-sinatra-react-project/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= clean
+
+current directory: /home/ziza/Jeliza/Ruby/Project/phase-3-sinatra-react-project/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\=
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.so
+
+current directory: /home/ziza/Jeliza/Ruby/Project/phase-3-sinatra-react-project/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 thin_parser.so ./.gem.20230609-2734-q6gyc5

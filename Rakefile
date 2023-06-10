@@ -13,5 +13,5 @@ end
  # start and rerun the server
  desc "Start the server"
  task :server do
-  exec "rerun -b 'rackup config.ru'"
+  exec "rerun -b 'rackup config.ru -p 8000'"
  end
